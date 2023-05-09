@@ -54,18 +54,18 @@ getestet werden? (Stichwort: Matrix Strategy)
 Workflows mit verschiedenen Kombinationen damit auf verschieden Java versionen getestet werden kann.
 
 Demofile welche outputs und checkouts im repo macht
-![image info](Screenshots/demoyml.png)
+![image info](Screenshots/demoyml.PNG)
 Aktiviert sich wenn ein build maven package gepusht wird
-![image info](Screenshots/firstyml.png)
+![image info](Screenshots/firstyml.PNG)
 
 
 Ausführt bei creates/builds artifacts
-![image info](Screenshots/secondyml.png)
+![image info](Screenshots/secondyml.PNG)
 
 pull request und checkt coding style
-![image info](Screenshots/fourthyml.png)
+![image info](Screenshots/fourthyml.PNG)
 
-![image info](Screenshots/mvnPublish.png)
+![image info](Screenshots/mvnPublish.PNG)
 
 Screenshots von den Workflows
-![image info](Screenshots/Workflows.png)
+![image info](Screenshots/Workflows.PNG)

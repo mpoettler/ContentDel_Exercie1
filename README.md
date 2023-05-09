@@ -68,4 +68,4 @@ pull request und checkt coding style
 ![image info](Screenshots/mvnPublish.PNG)
 
 Screenshots von den Workflows
-![image info](Screenshots/Workflows.PNG)
+![image info](Screenshots/Workflows.png)
